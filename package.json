@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "aws-sdk": ">= 2.0.9",
+        "lodash": "^4.17.15",
+        "node-uuid": ">= 1.4.1"
+    }
+}
